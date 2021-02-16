@@ -24,3 +24,6 @@ E por último, basta executar a aplicação:
 
 Para ver a aplicação.<br />
 abra o link [http://localhost:3000](http://localhost:3000) no navegador.
+
+---
+PS.: Não é muito, mas é um trabalho honesto! :)
